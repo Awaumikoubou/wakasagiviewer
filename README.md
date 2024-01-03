@@ -1,0 +1,2 @@
+# wakasagiviewer
+わかさぎちゃんをGTKwaveで表示するだけ
